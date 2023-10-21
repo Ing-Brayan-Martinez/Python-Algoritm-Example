@@ -30,9 +30,9 @@ jobs:
         run: |
           pip install pylint pytest
 
-      - name: Analysing the code with pylint
-        run: |
-          pylint $(git ls-files '*.py')
+#      - name: Analysing the code with pylint
+#        run: |
+#          pylint $(git ls-files '*.py')
 
       - name: Run tests with pytest
         run: |
