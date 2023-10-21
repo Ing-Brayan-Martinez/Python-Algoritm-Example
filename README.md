@@ -2,12 +2,10 @@
 <h1 align="center">Aprendiendo el Lenguaje Python</h1>
 
 <h1 align="center">
-  <img src="https://github.com/Ing-Brayan-Martinez/Dart-Algorithm-Example/blob/master/.github/assest/maxresdefault.jpg" alt="Flutter" width="800"/>
+  <img src="https://github.com/Ing-Brayan-Martinez/Python-Algoritm-Example/blob/main/.github/assest/python1.webp" alt="Python" width="800"/>
 </h1>
 
-[![Dart](https://github.com/Ing-Brayan-Martinez/Dart-Algorithm-Example/actions/workflows/dart.yml/badge.svg)](https://github.com/Ing-Brayan-Martinez/Dart-Algorithm-Example/actions/workflows/dart.yml)
-[![codecov](https://codecov.io/gh/leerob/dart-react-todo/branch/master/graph/badge.svg)](https://codecov.io/gh/leerob/dart-react-todo)
-[![Strong Mode Compliant](https://img.shields.io/badge/strong_mode-on-brightgreen.svg)](https://github.com/leerob/dart-react-todo/blob/master/analysis_options.yaml#L2)
+[![Python Continuous Integration](https://github.com/Ing-Brayan-Martinez/Python-Algoritm-Example/actions/workflows/python.yml/badge.svg)](https://github.com/Ing-Brayan-Martinez/Python-Algoritm-Example/actions/workflows/python.yml)
 
 ### Introduccion
 
