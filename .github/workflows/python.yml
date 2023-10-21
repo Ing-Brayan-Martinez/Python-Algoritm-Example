@@ -17,10 +17,10 @@ jobs:
       - name: Clone source code
         uses: actions/checkout@v3
 
-      - name: Install Python 3.10
+      - name: Install Python 3.9.6
         uses: actions/setup-python@v3
         with:
-          python-version: "3.10"
+          python-version: "3.9.6"
 
       - name: Upgrade pip
         run: |
