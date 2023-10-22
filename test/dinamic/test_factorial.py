@@ -1,13 +1,13 @@
 import pytest
 
-from src.dinamic.factorial import factorial
+import src.dinamic.factorial as dn
 
 
 def test_factorial():
     num: int = 5
     expectedValue: int = 120
 
-    resultValue: int = factorial(num)
+    resultValue: int = dn.factorial(num)
 
     print('-- Factorial -- \n\n')
 

@@ -1,6 +1,6 @@
 import pytest
 
-from src.dinamic.fizzbuzz import fizzbuzz
+import src.dinamic.fizzbuzz as dn
 
 
 def test_fizzbuzz():
@@ -8,6 +8,6 @@ def test_fizzbuzz():
 
     print('-- FizzBuzz -- \n\n')
 
-    fizzbuzz(num)
+    dn.fizzbuzz(num)
 
     print('\nTest Passed!')

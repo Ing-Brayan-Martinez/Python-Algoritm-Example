@@ -1,13 +1,13 @@
 import pytest
 
-from src.dinamic.fibonacci import fibonacci
+import src.dinamic.fibonacci as dn
 
 
 def test_fibonacci():
     num: int = 20
     expectedValue: int = 6765
 
-    resultValue: int = fibonacci(num)
+    resultValue: int = dn.fibonacci(num)
 
     print('-- Fibonacci -- \n\n')
 
